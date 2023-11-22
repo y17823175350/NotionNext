@@ -14,7 +14,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'TANGLY1024.COM',
   HEO_HERO_TITLE_4: '全网同名',
-  HEO_HERO_TITLE_5: '博客-伟大的曾二娃',
+  HEO_HERO_TITLE_5: '伟大的曾二娃',
   HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
 
   // 英雄区显示三个置顶分类
@@ -29,11 +29,11 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
+    '你好！我是曾二娃',
     '🔍 分享与热心帮助',
     '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
+    '🏠 利他主义ENFP',
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
