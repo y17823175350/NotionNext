@@ -10,7 +10,7 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '传播知识',
+  HEO_HERO_TITLE_1: '分享工具',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'TANGLY1024.COM',
   HEO_HERO_TITLE_4: '全网同名',
@@ -31,7 +31,7 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是曾二娃',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
+    '🤝 热衷于交新朋友',
     '🏃 脚踏实地行动派',
     '🏠 利他主义ENFP',
     '🤖️ 数码科技爱好者',
